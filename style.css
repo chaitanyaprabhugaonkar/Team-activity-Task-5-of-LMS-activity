@@ -1,0 +1,15 @@
+.hero{
+	justify-content: space-between;
+	
+}
+nav{
+	display: flex;
+	justify-content: space-between;
+	padding-left: 150px;
+	
+}
+nav ul li{
+	display: inline-block;
+	padding-top: 22px;
+	padding-right: 75px;
+}
